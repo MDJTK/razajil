@@ -3869,10 +3869,13 @@ html[data-wf-status] {
     z-index: 100;
     justify-content: center;
     align-items: center;
-    width: 10.5625rem;
+    width: 14.5625rem;
     padding-left: 0;
     display: flex;
     position: absolute;
+  }
+  .logo--{
+    width: 20.5625rem;
   }
   
   .nav_menu-items {
@@ -4766,7 +4769,7 @@ html[data-wf-status] {
     .heading-style-h1 {
       font-size: 7rem;
     }
-  
+    
     .margin-top-24 {
       margin-top: 1rem;
     }
@@ -4973,7 +4976,10 @@ html[data-wf-status] {
       padding-top: 4rem;
       padding-bottom: 4rem;
     }
-  
+    
+    .logo--{
+      width: 12.5625rem;
+    }
     .wrap_flex {
       grid-column-gap: 1.5rem;
       grid-row-gap: 1.5rem;
@@ -5513,7 +5519,9 @@ html[data-wf-status] {
     height: 75%;
   }
 }
-
+.mv-flex{
+  display: flex;
+}
 .contact-info {
   max-width: 400px;
   margin: auto;
@@ -5550,8 +5558,8 @@ html[data-wf-status] {
   position: fixed;
   bottom: 30px;
   right: 30px;
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
   background: #000;
   color: var(--yellow);
   border: none;
@@ -5580,3 +5588,12 @@ html[data-wf-status] {
     transform: scale(1);
   }
 }
+.about-style{
+  position: relative;
+  top: 30px;
+}
+.about-button{
+  font-weight: 1000;
+  width: 290px;
+}
+
