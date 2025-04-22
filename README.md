@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
-"# razajil" 
->>>>>>> f45a162 (commit-4)
+"# kasavukerala" 
 "# razajil" 
 "# razajil"
